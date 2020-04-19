@@ -3,8 +3,8 @@
 ---
 
 ##Pre Req:
-    ###Google chrome
-    ###Python and Selenium installed
-    ###Terminal or any IDE what you want
+    *Google chrome
+     *ython and Selenium installed
+     *Terminal or any IDE what you want
     
 ---
